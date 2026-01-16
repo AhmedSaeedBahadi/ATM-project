@@ -1,0 +1,3 @@
+﻿  ATM Progect.cpp
+E:\مشاريع فيجول استديو\الكورس الثامن\ATM Progect\ATM Progect\ATM Progect.cpp(35,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ATM Progect.vcxproj -> E:\مشاريع فيجول استديو\الكورس الثامن\ATM Progect\x64\Debug\ATM Progect.exe

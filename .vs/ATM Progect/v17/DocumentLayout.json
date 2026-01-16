@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0641\u064A\u062C\u0648\u0644 \u0627\u0633\u062A\u062F\u064A\u0648\\\u0627\u0644\u0643\u0648\u0631\u0633 \u0627\u0644\u062B\u0627\u0645\u0646\\ATM Progect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50DF069-09D9-4396-8253-D9AD7C98A193}|ATM Progect\\ATM Progect.vcxproj|E:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0641\u064A\u062C\u0648\u0644 \u0627\u0633\u062A\u062F\u064A\u0648\\\u0627\u0644\u0643\u0648\u0631\u0633 \u0627\u0644\u062B\u0627\u0645\u0646\\ATM Progect\\ATM Progect\\ATM Progect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E50DF069-09D9-4396-8253-D9AD7C98A193}|ATM Progect\\ATM Progect.vcxproj|solutionrelative:ATM Progect\\ATM Progect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1192,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATM Progect.cpp",
+              "DocumentMoniker": "E:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0641\u064A\u062C\u0648\u0644 \u0627\u0633\u062A\u062F\u064A\u0648\\\u0627\u0644\u0643\u0648\u0631\u0633 \u0627\u0644\u062B\u0627\u0645\u0646\\ATM Progect\\ATM Progect\\ATM Progect.cpp",
+              "RelativeDocumentMoniker": "ATM Progect\\ATM Progect.cpp",
+              "ToolTip": "E:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0641\u064A\u062C\u0648\u0644 \u0627\u0633\u062A\u062F\u064A\u0648\\\u0627\u0644\u0643\u0648\u0631\u0633 \u0627\u0644\u062B\u0627\u0645\u0646\\ATM Progect\\ATM Progect\\ATM Progect.cpp",
+              "RelativeToolTip": "ATM Progect\\ATM Progect.cpp",
+              "ViewState": "AgIAABwBAAAAAAAAAAAawD4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T05:59:24.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 32,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
